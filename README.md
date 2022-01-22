@@ -1,8 +1,7 @@
 # -SPRING-MySQL-Database-Connection-using-JDBC-STEPS
 
-=============================================
   SPRING MySQL Database Connection using JDBC STEPS
-=============================================
+
 Step1: Create maven project
                                Group id: com.cdac
                                Artifact id: spring-database-connection
