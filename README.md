@@ -1,8 +1,8 @@
 # -SPRING-MySQL-Database-Connection-using-JDBC-STEPS
 
-=============================================================
+=============================================
   SPRING MySQL Database Connection using JDBC STEPS
-=============================================================
+=============================================
 Step1: Create maven project
                                Group id: com.cdac
                                Artifact id: spring-database-connection
@@ -201,9 +201,9 @@ TODO: Create Table in the DB before running this example
 
 create table tbl_carpart(part_no int primary key auto_increment, part_name varchar(30), car_model varchar(35), price double, quantity int);
 
-===========================================================
+=========================================
          See OUTPUT in MySQL
-===========================================================
+========================================
 
 +---------+------------+------------+-------+----------+----------+
 | part_no | part_name  | car_model  | price | quantity   |
