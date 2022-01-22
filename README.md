@@ -119,8 +119,7 @@ public class CarPart {
 
 
 ===========================================================
-Step 6: implement  CarPartsInventory interface in CarPartsInventoryimp1
- And also add JDBC  database connection
+Step 6: implement  CarPartsInventory interface in CarPartsInventoryimp1 And also add JDBC  database connection
 
 package com.cdac.component;
 import java.sql.Connection;
