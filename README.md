@@ -1,4 +1,4 @@
-# -SPRING-MySQL-Database-Connection-using-JDBC-STEPS
+# SPRING-MySQL-Database-Connection-using-JDBC-STEPS
 
   SPRING MySQL Database Connection using JDBC STEPS
 
@@ -59,6 +59,7 @@ Step 3: add following dependencies  pom.xml file
 
 
 =====================================================
+
 Step 4: create Interface file CarPartsInventory.java  file in
                com.cdac.component  package
 
