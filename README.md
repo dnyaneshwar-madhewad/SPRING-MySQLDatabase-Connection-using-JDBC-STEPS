@@ -6,7 +6,7 @@ Step1: Create maven project
                                Group id: com.cdac
                                Artifact id: spring-database-connection
                                Version : 1.0
-===========================================================
+==========================================================
 
 
 Step 2:  Create file Spring-intro/src/main/resources app-config.xml file
